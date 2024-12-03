@@ -1,2 +1,0 @@
-# bv
-Bastien Vincke WebPage
